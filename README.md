@@ -1,5 +1,10 @@
-## Hi there 👋
+## Allen S.R.
+**Contact Information:** ads62523@email.vccs.edu
+- Engineering Student
+- Interested in Computers
+- Interested in Coding
 
+![Profile Banner](https://i.redd.it/t6fr12p6l1p61.jpg)
 <!--
 **AllenSR2033/AllenSR2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
